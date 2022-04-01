@@ -11,7 +11,7 @@ superuser: false
 role: Woof Woof
 
 # Role/position
-title: Doge
+title: Happy
 
 # Organizations/Affiliations
 organizations:
