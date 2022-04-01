@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Xinyu Wang
+title: Zhaochen Meng
 
 # Username (this should match the folder name)
 authors:
-- Xinyuwang
+- Zhaochenmeng
 
 # Is this the primary user of the site?
 superuser: false
@@ -20,8 +20,8 @@ organizations:
 
 
 interests:
-- Underwater Robot
-- Bio-Inspired Robot
+- Underwater Robotics
+- Bio-Inspired Robotics
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.

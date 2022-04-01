@@ -1,10 +1,10 @@
 ---
-title: Underwater Robot
+title: Underwater Robotics
 summary: -Underwater robot design and fabrication <br/> -Underwater robot motion control <br/> -Underwater robot autonomous environmental perception <br/>  -Underwater robot system modeling and coordinated control
 authors:
 - admin
 tags:
-- Underwater Robot
+- Underwater Robotics
 date: "2019-11-01"
 
 # Optional external URL for project (replaces project detail page).

@@ -1,10 +1,10 @@
 ---
-title: Bio-Inspired Robot
+title: Bio-Inspired Robotics
 summary: -Bionic robot design and fabrication <br/> -Bionic robot motion control <br/> -Bionic robot system modeling and simulation
 authors:
 - admin
 tags:
-- Bio-Inspired Robot
+- Bio-Inspired Robotics
 date: "2021-03-01"
 
 # Optional external URL for project (replaces project detail page).
