@@ -40,7 +40,7 @@ projects: []
 ![JPG](./5.jpg)
 ![JPG](./6.JPG)
 ![JPG](./7.jpg)
-![JPG](./8.jpg)
+
 
 
 
