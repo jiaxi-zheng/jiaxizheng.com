@@ -34,6 +34,10 @@ projects: []
 
 Annual meeting:point_up_2:
 
+![PNG](./1.png)
+{{< video library="true" src="2.mp4" controls="yes" >}}
+
+
 First prize of transportation technology competition(2021.8):point_down:
 ![JPG](./3.jpg)
 
