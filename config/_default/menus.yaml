@@ -8,7 +8,7 @@ main:
     url: '#about'
     weight: 1
   - name: Research
-    url: '#projects'
+    url: '#research'
     weight: 10
   - name: Publications
     url: 'publication/'
@@ -20,7 +20,7 @@ main:
     url: 'misc/'
     weight: 40
   - name: CV
-    url: files/cv2.pdf
+    url: files/Resume.pdf
     weight: 50
   - name: Contact
     url: '#contact'

@@ -23,7 +23,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
 - Underwater Robotics
-- Bio-Inspired Robotics
+- Bioinspired Robotics
 - Nano Sensor
 
 education:
@@ -66,4 +66,8 @@ highlight_name: true
 
 ---
 
-I am an undergraduate at Dalian Maritime University. The main research directions are robot Design, Control, Fabrication and Simulation. In November 2019, I met Professor Minyi Xu. He introduced me to the fantastic world of Underwater Robots.In Lab of Marine Self-Powered System Lab, I started my investigation from Underwater Robots Fabrication. So far, my work superauv has gone through 3 Iterations.
+Robotics enthusiasts who believe that the only goal of technology should be to achieve. Enable people, enable creativity, enable great products or new ideas. My research background is mainly in the balance of control and robotics, mechanical and software design. Over the past few years in this industry, I’ve  done many interesting experiments with robotics combined with nanosensors, and I’ve learned to appreciate human factor considerations more when designing good technology, and I’m aiming in these directions to Learn further and contribute to a real technology.
+
+Outside of research, my interests include Photography, DIY Drone, Cycling, Football, and Travel.
+
+
