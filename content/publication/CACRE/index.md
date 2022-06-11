@@ -32,15 +32,14 @@ publication_short: ""
 abstract: 
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags:
 - Source Themes
 featured: false
 
 links:
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-
+url_pdf: https://ieeexplore-ieee-org-s.svpn.dlmu.edu.cn:8118/document/9501358
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -65,5 +64,4 @@ projects:
 ---
 
 
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+Autonomous underwater vehicle (AUV) is usually utilized to perform complex underwater tasks, such as environmental monitoring, oceanographic mapping, and organism capture, due to their autonomy and high precision maneuverability. These tasks require AUVs' ability to perform autonomous navigation, especially under the condition of limited communications in underwater environments. This paper develops a new breed of lightweight intervention AUV for autonomous navigation using visually detected targets rather than acoustic counterparts. The main advantage of our design is the robustness of the mechanical structure and software components, and provides a feasible platform for secondary development. Experiments of tracking and object manipulation show the applicability of the system and its potential applications in science and industrial fields.

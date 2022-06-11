@@ -13,9 +13,6 @@ authors:
 date: "2022-03-07T00:00:00Z"
 doi: ""
 
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-03-01T00:00:00Z"

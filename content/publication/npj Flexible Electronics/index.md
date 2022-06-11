@@ -29,14 +29,14 @@ publication_short: ""
 abstract: 
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags:
 - Source Themes
 featured: false
 
 links:
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://www.nature.com/articles/s41528-022-00160-0
 
 
 # Featured image
@@ -62,4 +62,5 @@ projects:
 ---
 
 
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+Marine mammals relying on tactile perception for hunting are able to achieve a remarkably high prey capture rate without visual or acoustic perception. Here, a self-powered triboelectric palm-like tactile sensor (TPTS) is designed to build a tactile perceptual system for underwater vehicles. It is enabled by a three-dimensional structure that mimics the leathery, granular texture in the palms of sea otters, whose inner neural architecture provides additional clues indicating the importance of tactile information. With the assistance of palm structure and triboelectric nanogenerator technology, the proposed TPTS has the ability to detect and distinguish normal and shear external load in real-time and approximate the external stimulation area, especially not affected by the touch frequency, that is, it can maintain stable performance under high-frequency contact. The results show that the TPTS is a promising tool for integration into grippers mounted on underwater vehicles to complete numerous underwater tasks.
+

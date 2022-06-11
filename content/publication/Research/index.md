@@ -29,14 +29,14 @@ publication_short: ""
 abstract: 
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags:
 - Source Themes
 featured: false
 
 links:
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://spj.sciencemag.org/journals/research/2021/9864967/
 
 
 # Featured image
@@ -63,4 +63,5 @@ projects:
 
 
 
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+Since designing efficient tactile sensors for autonomous robots is still a challenge, this paper proposes a perceptual system based on a bioinspired triboelectric whisker sensor (TWS) that is aimed at reactive obstacle avoidance and local mapping in unknown environments. The proposed TWS is based on a triboelectric nanogenerator (TENG) and mimics the structure of rat whisker follicles. It operates to generate an output voltage via triboelectrification and electrostatic induction between the PTFE pellet and copper films (0.3 mm thickness), where a forced whisker shaft displaces a PTFE pellet (10 mm diameter). With the help of a biologically inspired structural design, the artificial whisker sensor can sense the contact position and approximate the external stimulation area, particularly in a dark environment. To highlight this sensor’s applicability and scalability, we demonstrate different functions, such as controlling LED lights, reactive obstacle avoidance, and local mapping of autonomous surface vehicles. The results show that the proposed TWS can be used as a tactile sensor for reactive obstacle avoidance and local mapping in robotics.
+

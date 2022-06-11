@@ -27,19 +27,13 @@ image:
 
 ![PNG](./1.png)
 
-
 ![JPG](./2.JPG)
 ![JPG](./3.JPG)
-
-
-
-
 ![PNG](./4.PNG)
-![PNG](./6.PNG)
-![PNG](./7.PNG)
-![PNG](./9.PNG)
-![PNG](./11.PNG)
 
+{{< video library="true" src="3.mp4" controls="yes" >}}
 
+![JPG](./6.jpg)
+![JPG](./7.jpg)
 
-{{< video library="true" src="15.mp4" controls="yes" >}}
+{{< video library="true" src="14.mp4" controls="yes" >}}

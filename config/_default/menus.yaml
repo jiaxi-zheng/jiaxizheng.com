@@ -13,14 +13,14 @@ main:
   - name: Publications
     url: 'publication/'
     weight: 20
-  - name: People
-    url: 'people/'
-    weight: 30
-  - name: Misc
-    url: 'misc/'
-    weight: 40
+  #- name: People
+  #  url: 'people/'
+  #  weight: 30
+  #- name: Misc
+  #  url: 'misc/'
+  #  weight: 40
   - name: CV
-    url: files/Resume.pdf
+    url: files/Resume_jiaxizheng.pdf
     weight: 50
   - name: Contact
     url: '#contact'

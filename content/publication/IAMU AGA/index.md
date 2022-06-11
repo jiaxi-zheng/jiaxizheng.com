@@ -25,14 +25,14 @@ publication_short: ""
 abstract: 
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags:
 - Source Themes
 featured: false
 
 links:
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: 
 
 
 # Featured image
@@ -59,4 +59,4 @@ projects:
 
 
 
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+With the increasingly severity of marine pollution and climate change, the protection of marine ecosystem is particularly important. In order to realize ship inspection, ocean cleanup and marine pollution detection, this work introduces an underwater vehicle for marine environment protection. An underwater vehicle for marine environment perception is comprised of land-based console, a zero buoyancy cable and an underwater vehicle motion platform. In particular, the video and sensor data collected by underwater vehicle system are displayed in real time through zero buoyancy cable back to the landbased console. This paper proposes a multi-stage PID cascade controller, aiming at the shortcomings of traditional proportional integral derivative (PID) algorithm. Underwater vehicle designed in this paper was tested in real environments such as ports and polluted sea areas, which were successfully completed.
