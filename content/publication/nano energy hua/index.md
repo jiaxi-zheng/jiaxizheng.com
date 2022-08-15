@@ -27,7 +27,7 @@ publishDate: "2022-05-20T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Nano Energy(under review)*"
+publication: "*Nano Energy*"
 publication_short: ""
 
 abstract: 
