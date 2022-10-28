@@ -38,8 +38,8 @@ subtitle = ""
     tag = "UUV"
  
   [[content.filter_button]]
-    name = "Bioinspired Robotics"
-    tag = "Bioinspired Robotics"
+    name = "Spherical Robotics"
+    tag = "Spherical Robotics"
 
   [[content.filter_button]]
     name = "Robotic Fish"
