@@ -6,7 +6,7 @@ authors:
 tags:
 - iSWARM
 #date: "2020-03-01"
-weight: 2
+weight: 3
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

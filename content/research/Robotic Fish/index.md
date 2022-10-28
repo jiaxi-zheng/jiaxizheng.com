@@ -6,7 +6,7 @@ authors:
 tags:
 - Robotic Fish
 #date: "2021-05-01"
-weight: 4
+weight: 5
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

@@ -6,7 +6,7 @@ authors:
 tags:
 - Spherical Robotics
 #date: "2021-03-01"
-weight: 3
+weight: 4
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

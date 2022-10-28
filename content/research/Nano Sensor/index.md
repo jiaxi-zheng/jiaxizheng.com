@@ -6,7 +6,7 @@ authors:
 tags:
 - Nano Sensor
 #date: "2021-12-01"
-weight: 5
+weight: 6
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
