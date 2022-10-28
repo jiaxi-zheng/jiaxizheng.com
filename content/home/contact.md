@@ -25,11 +25,11 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: 2220194051jacky@dlmu.edu.cn
+  email: jiaxizheng@ieee.org
   address:
-    street: 450 Serra Mall
-    city: dalian 
-    region: Ganjingzi
+    street: Dunyu Road
+    city: Hangzhou 
+    region: 
     postcode: '116026'
     country: China
     country_code: zh
