@@ -1,6 +1,6 @@
 ---
 title: iSWARM
-summary: -iSWARM design and fabrication <br/> -UUV motion control <br/> -UUV system modeling and simulation
+summary: -automic bouy design and fabrication <br/> -bouy motion control <br/> -bouy system modeling and simulation
 authors:
 - admin
 tags:
