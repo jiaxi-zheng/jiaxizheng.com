@@ -28,7 +28,11 @@ subtitle = ""
   [[content.filter_button]]
     name = "AUV"
     tag = "AUV"
-  
+
+  [[content.filter_button]]
+    name = "iSWARM"
+    tag = "iSWARM"
+
   [[content.filter_button]]
     name = "UUV"
     tag = "UUV"
