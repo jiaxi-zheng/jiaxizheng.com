@@ -1,10 +1,10 @@
 ---
-title: UUV
-summary: -UUV design and fabrication <br/> -UUV motion control <br/> -UUV system modeling and simulation
+title: iSWARM
+summary: -iSWARM design and fabrication <br/> -UUV motion control <br/> -UUV system modeling and simulation
 authors:
 - admin
 tags:
-- UUV
+- iSWARM
 #date: "2020-03-01"
 weight: 2
 
