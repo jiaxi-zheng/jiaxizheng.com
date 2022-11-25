@@ -39,19 +39,12 @@ projects: []
 ![JPG](./5.JPG)
 ![PNG](./6.png)
 ![PNG](./7.png)
-![JPG](./8.jpg)
+![JPG](./8.JPG)
 
-哪些相机可以改装成拍立得相机？ - 铁皮地瓜的回答 - 知乎 https://www.zhihu.com/answer/739920415
-![JPG](./12.JPG)
-![PNG](./13.png)
-![JPG](./15.jpg)
-![JPG](./16.jpg)
-![JPG](./17.jpg)
-![JPG](./18.JPG)
-![PNG](./19.png)
-
+![JPG](./9.JPG)
+![PNG](./10.png)
 ![JPG](./23.jpg)
 ![JPG](./24.JPG)
-![JPG](./25.JPG)
 ![JPG](./26.jpg)
 ![JPG](./27.jpg)
+

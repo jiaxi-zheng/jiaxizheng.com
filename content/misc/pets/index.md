@@ -36,26 +36,13 @@ projects: []
 ![JPG](./1.JPG)
 ![JPG](./2.JPG)
 ![JPG](./3.JPG)
-<!-- ![PNG](./4.png) -->
 
 ![PNG](./5.png)
-<!-- ![PNG](./6.png) -->
 
 ![JPG](./9.JPG)
 ![JPG](./10.JPG)
 ![JPG](./11.JPG)
-<!-- ![PNG](./12.png)
 
-![JPG](./16.JPG)
-![JPG](./17.JPG)
-![PNG](./18.png)
-
-![JPG](./23.JPG)
-![JPG](./24.JPG)
-![JPG](./25.JPG)
-![JPG](./26.JPG)
-
-![JPG](./30.JPG) -->
 
 
 
