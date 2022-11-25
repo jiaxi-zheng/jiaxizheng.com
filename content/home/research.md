@@ -24,22 +24,26 @@ subtitle = ""
   [[content.filter_button]]
     name = "All"
     tag = "*"
-  
-  [[content.filter_button]]
-    name = "AUV"
-    tag = "AUV"
 
   [[content.filter_button]]
-    name = "iSWARM"
-    tag = "iSWARM"
+    name = "Underwater Interventional Robotics"
+    tag = "Underwater Interventional Robotics"
 
   [[content.filter_button]]
+    name = "iSWARMs"
+    tag = "iSWARMs"
+
+  <!-- [[content.filter_button]]
     name = "UUV"
-    tag = "UUV"
- 
+    tag = "UUV" -->
+
+   [[content.filter_button]]
+    name = "Quadrupedal robotics"
+    tag = "Quadrupedal robotics"
+
   [[content.filter_button]]
-    name = "Spherical Robotics"
-    tag = "Spherical Robotics"
+    name = "TembleBot(Spherical-legged Robotics)"
+    tag = "TembleBot(Spherical-legged Robotics)"
 
   [[content.filter_button]]
     name = "Robotic Fish"

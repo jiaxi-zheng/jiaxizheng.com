@@ -23,9 +23,9 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Underwater Robotics
-- Bioinspired Robotics
-- Nano Sensor
+- Mechanical design, Fabrication, Characterization, and Locomotion control of Field Robotics (Legged robotics, Underwater robotics, and Bioinspired robotics)
+- Swarm robotics and collective intelligence with application in self-reconfiguration robotics and environmental monitor.
+- Flexable Electronic Material with applications in robotics perception.
 
 education:
   courses:
