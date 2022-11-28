@@ -23,9 +23,9 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter
 
 interests:
-- Mechanical design, Fabrication, Characterization, and Locomotion control of Field Robotics (Legged robotics, Underwater robotics, and Bioinspired robotics)
-- Swarm robotics and collective intelligence with application in self-reconfiguration robotics and environmental monitor
-- Flexable Electronic Material with applications in robotics perception
+- Mechanical design, Perception, and Locomotion control of Field Robotics
+- Swarm robotics and collective intelligence in self-reconfiguration robotics 
+- Flexable Electronic Material in robotics perception
 
 education:
   courses:
@@ -35,14 +35,14 @@ education:
 #  - course: MEng in Artificial Intelligence
 #    institution: Massachusetts Institute of Technology
 #    year: 2009
-  - course: intern of Mechanical and Automation Engineering college
-    institution: The Chinese University of Hong Kong
+  - course: The Chinese University of Hong Kong
+    institution: Research intern of Mechanical and Automation Engineering college
     year: 2022.7 ~ 2022.9
-  - course: intern of Engineering college
-    institution: Westlake University
+  - course: Westlake University
+    institution: Research intern of Engineering college
     year: 2022.5 ~ now
-  - course: Bachelor of Engineering 
-    institution: Dalian Maritime University
+  - course: Dalian Maritime University  
+    institution: Bachelor of Engineering
     year: 2019 ~ 2023
 
 

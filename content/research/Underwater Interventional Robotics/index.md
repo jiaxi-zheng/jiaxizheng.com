@@ -1,6 +1,6 @@
 ---
 title: Underwater Interventional Robotics
-summary: -Underwater robot design and fabrication <br/> -Underwater robot motion control <br/> -Underwater robot autonomous environmental perception <br/>  -Underwater robot system modeling and coordinated control
+summary: -Design and Fabrication <br/> -Locomotion control <br/> -Environmental perception 
 authors:
 - admin
 tags:
