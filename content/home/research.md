@@ -33,10 +33,6 @@ subtitle = ""
     name = "iSWARMs"
     tag = "iSWARMs"
 
-  <!-- [[content.filter_button]]
-    name = "UUV"
-    tag = "UUV" -->
-
    [[content.filter_button]]
     name = "Quadrupedal robotics"
     tag = "Quadrupedal robotics"
