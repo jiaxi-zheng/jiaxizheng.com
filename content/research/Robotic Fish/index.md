@@ -33,7 +33,7 @@ image:
 
 {{< video library="true" src="3.mp4" controls="yes" >}}
 
-![JPG](./6.jpg)
+![JPG](./5.png)
 ![JPG](./7.jpg)
 
 {{< video library="true" src="14.mp4" controls="yes" >}}

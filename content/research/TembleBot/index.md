@@ -1,10 +1,10 @@
 ---
-title: TembleBot(Spherical-legged Robotics)
+title: TembleBot
 summary: -Bionic robot design and fabrication <br/> -Bionic robot motion control <br/> -Bionic robot system modeling and simulation
 authors:
 - admin
 tags:
-- TembleBot(Spherical-legged Robotics)
+- TembleBot
 #date: "2021-03-01"
 weight: 4
 

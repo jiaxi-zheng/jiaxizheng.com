@@ -38,8 +38,8 @@ subtitle = ""
     tag = "Quadrupedal robotics"
 
   [[content.filter_button]]
-    name = "TembleBot(Spherical-legged Robotics)"
-    tag = "TembleBot(Spherical-legged Robotics)"
+    name = "TembleBot"
+    tag = "TembleBot"
 
   [[content.filter_button]]
     name = "Robotic Fish"

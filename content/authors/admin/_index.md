@@ -35,13 +35,13 @@ education:
 #  - course: MEng in Artificial Intelligence
 #    institution: Massachusetts Institute of Technology
 #    year: 2009
-  - course: The Chinese University of Hong Kong
+  - course: The Chinese University of Hong Kong    
     institution: Research intern of Mechanical and Automation Engineering college
     year: 2022.7 ~ 2022.9
   - course: Westlake University
     institution: Research intern of Engineering college
     year: 2022.5 ~ now
-  - course: Dalian Maritime University  
+  - course: Dalian Maritime University     
     institution: Bachelor of Engineering
     year: 2019 ~ 2023
 
