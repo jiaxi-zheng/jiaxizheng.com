@@ -27,7 +27,7 @@ interests:
 - Swarm robotics and collective intelligence in self-reconfiguration robotics 
 - Flexable Electronic Material in robotics perception
 
-education:
+experience:
   courses:
 #  - course: PhD in Artificial Intelligence
 #    institution: Stanford University
@@ -35,14 +35,17 @@ education:
 #  - course: MEng in Artificial Intelligence
 #    institution: Massachusetts Institute of Technology
 #    year: 2009
+  - course: Carnegie Mellon University    
+    institution: Research Assistant of Biorobotics lab
+    year: 2023.7 ~ now
   - course: The Chinese University of Hong Kong    
-    institution: Research intern of Mechanical and Automation Engineering college
+    institution: Research Assistant of Bioinspired Robotics and Medical Technology (BMT) lab
     year: 2022.7 ~ 2022.9
   - course: Westlake University
-    institution: Research intern of Engineering college
-    year: 2022.5 ~ now
+    institution: Research Assistant of Intelligent, Informational, Integrative and Interdisciplinary(i4) lab
+    year: 2022.5 ~ 2023.7
   - course: Dalian Maritime University     
-    institution: Bachelor of Engineering
+    institution: Bachelor of Civil Engineering, Research Assistant of Marine Self-Powered System(MSPS) Lab
     year: 2019 ~ 2023
 
 
@@ -67,7 +70,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "jiaxizheng@ieee.org"
+email: "jiaxiz@andrew.cmu.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
