@@ -35,9 +35,9 @@ experience:
 #  - course: MEng in Artificial Intelligence
 #    institution: Massachusetts Institute of Technology
 #    year: 2009
-  - course: Carnegie Mellon University    
-    institution: Research Assistant of Biorobotics lab
-    year: 2023.7 ~ now
+#  - course: Carnegie Mellon University    
+#    institution: Research Assistant of Biorobotics lab
+#    year: 2023.7 ~ now
   - course: The Chinese University of Hong Kong    
     institution: Research Assistant of Bioinspired Robotics and Medical Technology (BMT) lab
     year: 2022.7 ~ 2022.9
