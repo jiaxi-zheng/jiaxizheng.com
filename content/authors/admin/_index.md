@@ -1,7 +1,7 @@
 ---
 
 # Display name
-title: Jiaxi Zheng
+title: Jiaxi(Jacky) Zheng
 
 # Username (this should match the folder name)
 authors:
@@ -26,24 +26,26 @@ interests:
 - Swarm robotics and collective intelligence in self-reconfiguration robotics 
 - Flexable Electronic Material in robotics perception
 
-experience:
-  courses:
+
 #  - course: Carnegie Mellon University    
 #    institution: Research Assistant of Biorobotics lab
 #    year: 2023.7 ~ now
 #  - course: The Chinese University of Hong Kong    
 #    institution: Research Assistant of Bioinspired Robotics and Medical Technology (BMT) lab
 #    year: 2022.7 ~ 2022.9
+#   institution: Research Assistant of Intelligent, Informational, Integrative and Interdisciplinary(i4) lab
+#  institution: Bachelor of Civil Engineering, Research Assistant of Marine Self-Powered System(MSPS) Lab
+
+experience:
+  courses:
   - course: The Chinese University of Hong Kong    
     institution: Research Assistant
     year: 2022.7 ~ 2022.9
   - course: Westlake University
     institution: Research Assistant
- #   institution: Research Assistant of Intelligent, Informational, Integrative and Interdisciplinary(i4) lab
     year: 2022.5 ~ 2023.7
   - course: Dalian Maritime University     
-  #  institution: Bachelor of Civil Engineering, Research Assistant of Marine Self-Powered System(MSPS) Lab
-    institution: Bachelor of Civil Engineering, Research Assistant
+    institution: Bachelor of Civil Engineering
     year: 2019 ~ 2023
 
 
