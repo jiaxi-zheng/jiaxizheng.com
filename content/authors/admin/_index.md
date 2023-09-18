@@ -11,16 +11,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Bachelor degree candidate
+role: Research Assistant
 
 # Organizations/Affiliations
 organizations:
-- name: Dalian Maritime University
-        Westlake University
+- name: Carnegie Mellon University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter
+bio: My research interests include bioinspired robotics and swarm robotics
 
 interests:
 - Mechanical design, Perception, and Locomotion control of Field Robotics
