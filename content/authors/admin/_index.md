@@ -35,17 +35,17 @@ interests:
 #    year: 2022.7 ~ 2022.9
 #   institution: Research Assistant of Intelligent, Informational, Integrative and Interdisciplinary(i4) lab
 #  institution: Bachelor of Civil Engineering, Research Assistant of Marine Self-Powered System(MSPS) Lab
+#  - course: The Chinese University of Hong Kong    
+#    institution: Research Assistant
+#    year: 2022.7 ~ 2022.9
 
 experience:
   courses:
-  - course: The Chinese University of Hong Kong    
-    institution: Research Assistant
-    year: 2022.7 ~ 2022.9
   - course: Westlake University
     institution: Research Assistant
     year: 2022.5 ~ 2023.7
   - course: Dalian Maritime University     
-    institution: Bachelor of Civil Engineering
+    institution: Bachelor
     year: 2019 ~ 2023
 
 
