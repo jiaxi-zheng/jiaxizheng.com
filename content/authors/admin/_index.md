@@ -40,14 +40,13 @@ interests:
 #    year: 2022.7 ~ 2022.9
 
 education:
-courses:
-- course: Westlake University
-  institution: Research Assistant
-  year: 2022.5 ~ 2023.7
-- course: Dalian Maritime University     
-  institution: Bachelor
-  year: 2019 ~ 2023
-
+  courses:
+  - course: Westlake University
+    institution: Research Assistant
+    year: 2022.5 ~ 2023.7
+  - course: Dalian Maritime University     
+    institution: Bachelor
+    year: 2019 ~ 2023
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
