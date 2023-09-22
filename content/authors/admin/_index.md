@@ -41,12 +41,24 @@ interests:
 
 education:
   courses:
-  - course: Westlake University
+  - course: Carnegie Mellon University    
+    institution: Research Assistant of Biorobotics lab
+    year: 2023.7 ~ now
+  - course: The Chinese University of Hong Kong    
+    institution: Research Assistant of Bioinspired Robotics and Medical Technology (BMT) lab
+    year: 2022.7 ~ 2022.9
+    institution: Research Assistant of Intelligent, Informational, Integrative and Interdisciplinary(i4) lab
+    institution: Bachelor of Civil Engineering, Research Assistant of Marine Self-Powered System(MSPS) Lab
+  - course: The Chinese University of Hong Kong    
     institution: Research Assistant
-    year: 2022.5 ~ 2023.7
-  - course: Dalian Maritime University     
-    institution: Bachelor
-    year: 2019 ~ 2023
+    year: 2022.7 ~ 2022.9
+
+#  - course: Westlake University
+#    institution: Research Assistant
+#    year: 2022.5 ~ 2023.7
+#  - course: Dalian Maritime University     
+#    institution: Bachelor
+#    year: 2019 ~ 2023
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
