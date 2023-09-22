@@ -39,8 +39,8 @@ interests:
 #    institution: Research Assistant
 #    year: 2022.7 ~ 2022.9
 
-# experience:
-courses:
+experience:
+# courses:
 - course: Westlake University
   institution: Research Assistant
   year: 2022.5 ~ 2023.7
