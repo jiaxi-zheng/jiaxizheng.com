@@ -45,13 +45,13 @@ education:
     institution: Research Assistant of Biorobotics lab
     year: 2023.7 ~ now
   - course: Westlake University
-    institution: Research Assistant of Intelligent, Informational, Integrative and Interdisciplinary(i4) lab
+    institution: Undergraduate Research Assistant of Intelligent, Informational, Integrative and Interdisciplinary(i4) lab
     year: 2022.5 ~ 2023.7
   - course: The Chinese University of Hong Kong    
-    institution: Research Assistant of Bioinspired Robotics and Medical Technology (BMT) lab
+    institution: Undergraduate Research Assistant of Bioinspired Robotics and Medical Technology (BMT) lab
     year: 2022.7 ~ 2022.9
   - course: Dalian Maritime University     
-    institution: Bachelor of Civil Engineering, Research Assistant of Marine Self-Powered System(MSPS) Lab
+    institution: Bachelor of Civil Engineering, Undergraduate Research Assistant of Marine Self-Powered System(MSPS) Lab
     year: 2019 ~ 2023
 
 # Social/Academic Networking
