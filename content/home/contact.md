@@ -25,19 +25,18 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: jiaxizheng@ieee.org
+  email: jiaxiz@andrew.cmu.edu
   address:
-    street: Dunyu Road
-    city: Hangzhou 
+    street: 5000 Forbes Ave, , PA 15213
+    city: Pittsburgh 
     region: 
-    postcode: '116026'
-    country: China
-    country_code: zh
+    postcode: '15213'
+    country: United States
+    country_code: US
   coordinates:
-    latitude: '38.8713'
-    longitude: '121.5324'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-
+    latitude: '40.443504'
+    longitude: '-79.941571'
+  directions: NSH
 
 design:
   columns: '2'
