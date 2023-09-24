@@ -85,9 +85,9 @@ highlight_name: true
 
 ---
 I'm a Research Assistant at Carnegie Mellon University's Robotics Institute, advised by Prof. Howie Choset. Prior to this, I served as an Undergraduate Research Assistant at Westlake University and The Chinese University of Hong Kong, advised by Prof. Dixia Fan and Prof. Kwok Wai Samuel Au. I received my B.E. degrees at Dalian Maritime University, advised by Prof. Minyi Xu in China.
-My research interests revolve around Swarm Robotics and Bio-inspired Robotics, with a recent focus on Underwater Swarm Robotics. Currently, 
+My research interests revolve around Swarm Robotics and Bio-inspired Robotics, with a recent focus on Underwater Swarm Robotics. 
 
-I'm actively seeking a Ph.D. position to further pursue my passion for robotics and contribute to cutting-edge research.
+Currently, I'm actively seeking a Ph.D. position to further pursue my passion for robotics and contribute to cutting-edge research.
 
 Outside of research, my interests include Photography, Cycling, Travel, and Football.
 
