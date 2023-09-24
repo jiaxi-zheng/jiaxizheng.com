@@ -22,9 +22,9 @@ organizations:
 bio: My research interests include bioinspired robotics and swarm robotics
 
 interests:
-- Mechanical design, Perception, and Locomotion control of Field Robotics
+- Mechanical design, perception, and locomotion control of bio-inspired robotics
 - Swarm robotics and collective intelligence in self-reconfiguration robotics 
-- Flexable Electronic Material in robotics perception
+- Bio-inspired Flexable sensor in robotics perception
 
 
 #  - course: Carnegie Mellon University    
@@ -84,9 +84,9 @@ user_groups:
 highlight_name: true
 
 ---
+I'm a Research Assistant at Carnegie Mellon University's Robotics Institute, advised by Prof. Howie Choset. Prior to this, I served as an Undergraduate Research Assistant at Westlake University and The Chinese University of Hong Kong, advised by Prof. Dixia Fan and Prof. Kwok Wai Samuel Au. I received my B.E. degrees at Dalian Maritime University, advised by Prof. Minyi Xu in China.
+My research interests revolve around Swarm Robotics and Bio-inspired Robotics, with a recent focus on Underwater Swarm Robotics. Currently, I'm actively seeking a Ph.D. position to further pursue my passion for robotics and contribute to cutting-edge research.
 
-Robotics enthusiasts who believe that the only goal of technology should be to achieve. Enable people, enable creativity, enable great products or new ideas. My research background is mainly in the balance of control and robotics, mechanical and software design. Over the past few years in this industry, I’ve  done many interesting experiments with robotics combined with nanosensors, and I’ve learned to appreciate human factor considerations more when designing good technology, and I’m aiming in these directions to Learn further and contribute to a real technology.
-
-Outside of research, my interests include Photography, DIY Drone, Cycling, Football, and Travel.
+Outside of research, my interests include Photography, Cycling, Travel, and Football.
 
 
