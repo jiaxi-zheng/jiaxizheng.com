@@ -24,6 +24,9 @@ image:
 #   Otherwise, set `slides = ""`.
 ---
 
+![PNG](./1.png)
+![PNG](./2.png)
+![PNG](./3.png)
 
 ![JPG](./1.jpg)
 
