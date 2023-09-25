@@ -23,15 +23,11 @@ image:
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 ---
-
-![JPG](./2.jpg)
+![PNG](./1.png)
 ![PNG](./2.png)
-![PNG](./4.png)
-
+![JPG](./1.jpg)
+![JPG](./2.jpg)
+![PNG](./3.png)
 ![JPG](./5.jpg)
-
-![PNG](./6.PNG)
-![PNG](./8.png)
-![PNG](./10.png)
 
 {{< video library="true" src="8.mp4" controls="yes" >}}
