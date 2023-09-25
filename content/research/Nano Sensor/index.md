@@ -24,6 +24,9 @@ links:
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 ---
+![PNG](./1.png)
+![PNG](./2.png)
+
 {{< video library="true" src="1.mp4" controls="yes" >}}
 {{< video library="true" src="2.mp4" controls="yes" >}}
 {{< video library="true" src="3.mp4" controls="yes" >}}
