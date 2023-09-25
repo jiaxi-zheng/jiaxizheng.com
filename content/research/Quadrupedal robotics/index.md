@@ -28,7 +28,6 @@ links:
 #   Otherwise, set `slides = ""`.
 ---
 ![PNG](./1.png)
-
 ![PNG](./3.png)
 {{< video library="true" src="3.MP4" controls="yes" >}}
 {{< video library="true" src="4.MP4" controls="yes" >}}
