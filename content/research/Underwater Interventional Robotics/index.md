@@ -28,6 +28,9 @@ links:
 #   Otherwise, set `slides = ""`.
 ---
 ![PNG](./1.png)
+![PNG](./8.png)
+![JPG](./9.jpg)
+
 ![PNG](./2.jpg)
 {{< video library="true" src="2.mp4" controls="yes" >}}
 
