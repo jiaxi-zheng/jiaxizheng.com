@@ -26,28 +26,28 @@ subtitle = ""
     tag = "*"
 
   [[content.filter_button]]
-    name = "Underwater Interventional Robotics"
-    tag = "Underwater Interventional Robotics"
+    name = "Underwater Robotics"
+    tag = "Underwater Robotics"
 
   [[content.filter_button]]
     name = "iSWARMs"
     tag = "iSWARMs"
 
    [[content.filter_button]]
-    name = "Quadrupedal robotics"
-    tag = "Quadrupedal robotics"
+    name = "Quadruped"
+    tag = "Quadruped"
 
   [[content.filter_button]]
-    name = "TembleBot"
-    tag = "TembleBot"
+    name = "TumbleBot"
+    tag = "TumbleBot"
 
   [[content.filter_button]]
     name = "Robotic Fish"
     tag = "Robotic Fish"
 
   [[content.filter_button]]
-    name = "Nano Sensor"
-    tag = "Nano Sensor"
+    name = "BioSensor"
+    tag = "BioSensor"
 
 
 
