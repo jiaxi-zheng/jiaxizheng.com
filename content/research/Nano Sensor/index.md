@@ -1,10 +1,10 @@
 ---
-title: Nano Sensor
+title: BioSensor
 summary: -Underwater tactile sensing system <br/> -Optimizing TENGs for High Efficiency Sensing <br/> -Robot attitude estimation system <br/>  -Self-powered sensing system
 authors:
 - admin
 tags:
-- Nano Sensor
+- BioSensor
 #date: "2021-12-01"
 weight: 6
 
