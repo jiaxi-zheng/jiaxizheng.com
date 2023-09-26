@@ -19,7 +19,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include bioinspired robotics and swarm robotics
+bio: My research interests include Bio-inspired robotics and Bio-inspired Sensor
 
 interests:
 - Mechanical design, perception, and locomotion control of bio-inspired robotics
