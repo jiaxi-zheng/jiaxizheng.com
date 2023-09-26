@@ -43,16 +43,16 @@ education:
   courses:
   - course: Carnegie Mellon University    
     institution: Research Assistant of Biorobotics lab
-    year: 2023.7 ~ now
+    year: August 2023 ~ Present
   - course: Westlake University
     institution: Undergraduate Research Assistant of Intelligent, Informational, Integrative and Interdisciplinary(i4) lab
-    year: 2022.5 ~ 2023.7
+    year: May 2022 ~ July 2023
   - course: The Chinese University of Hong Kong    
     institution: Undergraduate Research Assistant of Bioinspired Robotics and Medical Technology (BMT) lab
-    year: 2022.7 ~ 2022.9
+    year: June 2022 ~ August 2022
   - course: Dalian Maritime University     
     institution: Bachelor of Civil Engineering, Undergraduate Research Assistant of Marine Self-Powered System(MSPS) Lab
-    year: 2019 ~ 2023
+    year: September 2019 ~ June 2023
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
