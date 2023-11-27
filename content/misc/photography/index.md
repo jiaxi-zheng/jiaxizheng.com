@@ -38,11 +38,11 @@ projects: []
 
 ![JPG](./5.JPG)
 ![PNG](./6.png)
-![PNG](./7.png)
+<!-- ![PNG](./7.png) -->
 ![JPG](./8.JPG)
 
 ![JPG](./9.JPG)
-![PNG](./10.png)
+![PNG](./10.JPG)
 ![JPG](./11.JPG)
 ![JPG](./12.JPG)
 ![JPG](./13.JPG)
