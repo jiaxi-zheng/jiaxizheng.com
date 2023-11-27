@@ -31,7 +31,6 @@ image:
 projects: []
 ---
 
-![JPG](./1.JPG)
 ![JPG](./3.JPG)
 
 ![JPG](./5.JPG)
@@ -43,6 +42,8 @@ projects: []
 ![JPG](./13.JPG)
 ![JPG](./17.JPG)
 ![JPG](./18.JPG)
+![JPG](./19.JPG)
+
 ![JPG](./21.JPG)
 ![JPG](./24.JPG)
 
