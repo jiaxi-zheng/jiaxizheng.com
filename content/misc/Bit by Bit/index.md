@@ -12,7 +12,7 @@ date: "2023-09-20T00:00:00Z"
 lastmod: "2023-12-17T00:00:00Z"
 featured: false
 draft: false
-weight: 8
+weight: 1
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
