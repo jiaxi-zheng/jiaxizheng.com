@@ -48,3 +48,8 @@ projects: []
 ![JPG](./21.JPG)
 ![JPG](./24.JPG)
 
+![JPG](./25.JPG)
+![JPG](./26.JPG)
+![JPG](./27.JPG)
+![JPG](./29.JPG)
+
