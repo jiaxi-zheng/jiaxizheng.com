@@ -33,15 +33,9 @@ projects: []
 
 
 
-![JPG](./1.JPG)
 ![JPG](./2.JPG)
 ![JPG](./3.JPG)
 
-![PNG](./5.png)
-
-![JPG](./9.JPG)
-![JPG](./10.JPG)
-![JPG](./11.JPG)
 
 
 
